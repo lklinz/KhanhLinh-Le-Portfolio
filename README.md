@@ -3,6 +3,8 @@
 This respitory contains all the projects I have done using Python and SQL 
 
 ## PYTHON
+* __MDPs dynamic pricing__ implements Markov Decision Processes framework with dynamic programming to build a model to adjust the T-shirt's price based on the remaining days and customers' purchase probabilities. This is a basic model experimenting with the basic concept of reinforcement learning and agentic model.
+
 * __account maintenance interface__ implements several classes, overloading with methods to display and track transactions log of an imaginary set of users.
 
 * __traveling salesperson__ applies 3 algorithms, including greedy, evolutionary, and back tracking to calculte the shortest route possible for a salesperson to travel
